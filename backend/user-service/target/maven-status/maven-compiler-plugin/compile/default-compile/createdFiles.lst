@@ -1,7 +1,0 @@
-org\example\userservice\model\User$UserBuilder.class
-org\example\userservice\model\User.class
-org\example\userservice\controller\UserController.class
-org\example\userservice\service\UserService.class
-org\example\userservice\Application.class
-org\example\userservice\repository\UserRepository.class
-org\example\userservice\service\UserServiceImpl.class

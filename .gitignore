@@ -1,0 +1,18 @@
+# Ignore service configs with secrets
+backend/**/src/main/resources/application.properties
+backend/**/src/main/resources/application.yml
+
+# Ignore env files
+*.env
+
+# Ignore IntelliJ / IDE configs
+.idea/
+*.iml
+
+# Ignore build outputs
+target/
+**/target/
+build/
+out/
+# Ignore build outputs
+backend/**/target/
